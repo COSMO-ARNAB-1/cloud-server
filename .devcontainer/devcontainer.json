@@ -1,4 +1,3 @@
-The config file (.devcontainer/devcontainer.json):
 {
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "features": {
